@@ -39,12 +39,12 @@
     <td valign="top" width="50%">
       <h4>Languages</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="32"/>
-        <img src="https://skillicons.dev/icons?i=html,css,js" height="32"/>
+        <img src="https://skillicons.dev/icons?i=c,java,python" height="32"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react.js" height="32"/>
       </p>
       <h4>Databases</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,flask" height="32"/>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,django" height="32"/>
       </p>
       <h4>Cloud and DevOps</h4>
       <p>
