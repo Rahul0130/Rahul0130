@@ -14,11 +14,11 @@
 </h1>
 
 <p align="center">
-  <b>3rd Year B.Tech Student</b> &nbsp;|&nbsp; <b>Software Engineer</b> &nbsp;|&nbsp; <b>India</b>
+  <b>3rd Year Int. M.Tech Student</b> &nbsp;|&nbsp; <b>Software Engineer</b> &nbsp;|&nbsp; <b>India</b>
 </p>
 <p align="center">
   🚀 Passionate about building impactful ML Systems.<br/>
-  💡 B.Tech, India, 2027.
+  💡Int. M.Tech, India, 2028.
 </p>
 
 ---
