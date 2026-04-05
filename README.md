@@ -10,7 +10,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=30FDCB&center=true&vCenter=true&width=380&lines=👋+Hello%2C+I'm+Madhu;ML+Engineer;Software+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=30FDCB&center=true&vCenter=true&width=380&lines=👋+Hello%2C+I'm+Siddmama;ML+Engineer;Software+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <p align="center">
