@@ -10,7 +10,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=30FDCB&center=true&vCenter=true&width=380&lines=👋+Hello%2C+I'm+Siddmama;ML+Engineer;Software+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=30FDCB&center=true&vCenter=true&width=380&lines=👋+Hello%2C+I'm+Rahul;ML+Engineer;Software+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-- 🎓 <b>Education:</b> 3rd Year B.Tech Student  
+<!--- 🎓 <b>Education:</b> 3rd Year Int.Mtech Student  -->
 - 💼 <b>Focus:</b> Full Stack Web, Open Source, AI, Competitive Programming  
 - 🌱 <b>Currently:</b> Building highlight worthy projects, mastering DSA, contributing to open source  
 - 🏅 <b>Strengths:</b> Problem Solving, Fast Learner, Teamwork, Clean Code  
@@ -65,7 +65,7 @@
 ## 🏆 Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/u/klu2300031210/" target="_blank">
+<!--  <a href="https://leetcode.com/u/klu2300031210/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/madhusudtxfu/" target="_blank">
@@ -75,13 +75,13 @@
     <img src="https://img.shields.io/badge/CodeChef-%23964B00?style=flat-square&logo=CodeChef&logoColor=white" alt="CodeChef"/>
   </a>
   <a href="https://www.hackerrank.com/profile/h2300031210" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"/> -->
   </a>
 </div>
 
 ---
 
-## 🌐 Portfolio & Links
+<!--## 🌐 Portfolio & Links
 
 <div align="center">
 
@@ -103,7 +103,7 @@
 <a href="https://t.me/madhudsudhan" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-</div>
+</div>-->
 
 ---
 
@@ -117,15 +117,15 @@
 
 ### 🏅 GitHub Trophies
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Madhuu-k&theme=juicyfresh" alt="GitHub Trophies"/>
-</p>
+</p>-->
 
 ---
 
 ## 🤝 Connect with Me
 
-<p align="center">
+<!--<p align="center">
   <a href="mailto:madhusudhan2k6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -141,7 +141,7 @@
   <a href="https://t.me/madhudsudhan" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-</p>
+</p>-->
 
 ---
 
