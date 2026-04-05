@@ -105,7 +105,7 @@
 </a>
 </div>-->
 
----
+<!--- -->
 
 <!--## 📊 GitHub Stats
 
@@ -121,7 +121,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Madhuu-k&theme=juicyfresh" alt="GitHub Trophies"/>
 </p>-->
 
----
+<!----- -->
 
 <!--## 🤝 Connect with Me-->
 
@@ -143,7 +143,7 @@
   </a>
 </p>-->
 
----
+<!----- --> 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul0130&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="Madhuu-k activity graph" />
