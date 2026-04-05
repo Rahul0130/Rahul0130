@@ -39,17 +39,17 @@
     <td valign="top" width="50%">
       <h4>Languages</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=c,java,python" height="32"/>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react" height="32"/>
+        <img src="https://skillicons.dev/icons?i=java,python" height="32"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,django" height="32"/>
       </p>
       <h4>Databases</h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgres,django" height="32"/>
+        <img src="https://skillicons.dev/icons?i=postgres" height="32"/>
       </p>
-      <h4>Cloud and DevOps</h4>
+      <!--<h4>Cloud and DevOps</h4>
       <p>
         <img src="https://skillicons.dev/icons?i=aws,docker,linux" height="32"/>
-      </p>
+      </p> -->
     </td>
     <td valign="top" width="50%">
       <h4>Tools & Platforms</h4>
