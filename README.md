@@ -62,7 +62,7 @@
 
 ---
 
-## 🏆 Coding Profiles
+<!--## 🏆 Coding Profiles-->
 
 <div align="center">
 <!--  <a href="https://leetcode.com/u/klu2300031210/" target="_blank">
@@ -107,15 +107,15 @@
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madhuu-k&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="170"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Madhuu-k&theme=tokyonight&hide_border=false" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuu-k&theme=tokyonight&hide_border=false&layout=compact" height="170"/>
-</div>
+</div>-->
 
-### 🏅 GitHub Trophies
+<!--### 🏅 GitHub Trophies-->
 
 <!--<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Madhuu-k&theme=juicyfresh" alt="GitHub Trophies"/>
@@ -123,7 +123,7 @@
 
 ---
 
-## 🤝 Connect with Me
+<!--## 🤝 Connect with Me-->
 
 <!--<p align="center">
   <a href="mailto:madhusudhan2k6@gmail.com" target="_blank">
